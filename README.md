@@ -1,2 +1,2 @@
-# TheNewEpochProject
+# The New Epoch Project
 blblbllblb
