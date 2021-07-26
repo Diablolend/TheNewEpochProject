@@ -1,2 +1,3 @@
 # The New Epoch Project
-blblbllblb
+
+Проект Новой Эпохи
