@@ -1,2 +1,2 @@
 Текущий адрес TNESB:
-&a&ltnesb.hopto.org
+&a&ltnes.hopto.org:25570
