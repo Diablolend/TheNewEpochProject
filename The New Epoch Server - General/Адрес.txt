@@ -1,2 +1,2 @@
 Текущий адрес TNES-Hub:
-&a&ltnes.hopto.org
+&a&ltnes.hopto.org:25565
